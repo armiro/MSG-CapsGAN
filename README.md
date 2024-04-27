@@ -1,6 +1,7 @@
 # MSG-CapsGAN
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/armiro/COVID-CXNet/blob/master/LICENSE)
 ![license](https://img.shields.io/badge/development-100%25-yellow?style=flat-square)
+[![license](https://img.shields.io/badge/DOI-10.1109/ICEIC49074.2020.9051244-lightblue?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/9051244)
 
 Multi-Scale Gradient Capsule GAN for Super-Resolution
 
